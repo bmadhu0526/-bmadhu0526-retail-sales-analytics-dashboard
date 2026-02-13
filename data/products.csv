@@ -1,0 +1,101 @@
+product_id,product_name,category,cost_price,selling_price
+P001,Product_1,Clothing,13040,15448
+P002,Product_2,Home Appliances,6923,8403
+P003,Product_3,Electronics,5725,7577
+P004,Product_4,Clothing,211,259
+P005,Product_5,Clothing,4347,5358
+P006,Product_6,Home Appliances,1045,1270
+P007,Product_7,Electronics,11584,15179
+P008,Product_8,Electronics,7679,10157
+P009,Product_9,Clothing,1066,1287
+P010,Product_10,Grocery,8579,9031
+P011,Product_11,Clothing,17312,21248
+P012,Product_12,Clothing,9318,11009
+P013,Product_13,Clothing,12235,15216
+P014,Product_14,Clothing,6381,7568
+P015,Product_15,Home Appliances,8621,11057
+P016,Product_16,Electronics,7258,9198
+P017,Product_17,Home Appliances,5326,6383
+P018,Product_18,Home Appliances,18496,23137
+P019,Product_19,Home Appliances,16498,19570
+P020,Product_20,Clothing,16266,19970
+P021,Product_21,Grocery,8056,8815
+P022,Product_22,Electronics,2618,3312
+P023,Product_23,Grocery,2077,2236
+P024,Product_24,Home Appliances,2745,3352
+P025,Product_25,Home Appliances,15472,19906
+P026,Product_26,Grocery,5308,5834
+P027,Product_27,Grocery,6786,7413
+P028,Product_28,Grocery,441,478
+P029,Product_29,Home Appliances,14036,17054
+P030,Product_30,Home Appliances,12716,16396
+P031,Product_31,Electronics,5942,7240
+P032,Product_32,Electronics,3611,4596
+P033,Product_33,Home Appliances,6234,8057
+P034,Product_34,Grocery,19533,20699
+P035,Product_35,Grocery,8442,8866
+P036,Product_36,Electronics,13117,16338
+P037,Product_37,Home Appliances,15315,19908
+P038,Product_38,Electronics,19538,23747
+P039,Product_39,Electronics,2504,3063
+P040,Product_40,Clothing,11887,13852
+P041,Product_41,Clothing,14089,17459
+P042,Product_42,Clothing,19165,23739
+P043,Product_43,Grocery,11015,12056
+P044,Product_44,Home Appliances,9812,11724
+P045,Product_45,Home Appliances,5106,6128
+P046,Product_46,Home Appliances,14998,18420
+P047,Product_47,Home Appliances,8160,10340
+P048,Product_48,Clothing,13823,16589
+P049,Product_49,Grocery,17462,18699
+P050,Product_50,Grocery,552,599
+P051,Product_51,Clothing,6960,8040
+P052,Product_52,Grocery,12735,13736
+P053,Product_53,Clothing,256,298
+P054,Product_54,Home Appliances,17918,22627
+P055,Product_55,Clothing,15984,19801
+P056,Product_56,Home Appliances,17297,20754
+P057,Product_57,Home Appliances,19224,23806
+P058,Product_58,Electronics,8805,10597
+P059,Product_59,Clothing,12433,14518
+P060,Product_60,Electronics,18191,24522
+P061,Product_61,Clothing,14870,18108
+P062,Product_62,Clothing,7624,9464
+P063,Product_63,Electronics,6424,8088
+P064,Product_64,Electronics,1728,2120
+P065,Product_65,Clothing,19676,22932
+P066,Product_66,Grocery,1109,1178
+P067,Product_67,Home Appliances,16248,20754
+P068,Product_68,Electronics,9964,12116
+P069,Product_69,Home Appliances,19591,24387
+P070,Product_70,Grocery,10867,11815
+P071,Product_71,Grocery,10971,11960
+P072,Product_72,Grocery,9839,10767
+P073,Product_73,Electronics,16362,22044
+P074,Product_74,Grocery,11302,11965
+P075,Product_75,Electronics,2743,3325
+P076,Product_76,Grocery,13981,14770
+P077,Product_77,Home Appliances,3677,4773
+P078,Product_78,Home Appliances,16207,19571
+P079,Product_79,Clothing,10223,12673
+P080,Product_80,Home Appliances,18097,22726
+P081,Product_81,Clothing,10280,12621
+P082,Product_82,Home Appliances,15757,20429
+P083,Product_83,Electronics,11544,14323
+P084,Product_84,Home Appliances,1356,1618
+P085,Product_85,Clothing,6826,7913
+P086,Product_86,Clothing,9524,11602
+P087,Product_87,Grocery,7576,7980
+P088,Product_88,Electronics,5580,7284
+P089,Product_89,Home Appliances,3798,4692
+P090,Product_90,Grocery,13595,14280
+P091,Product_91,Home Appliances,713,850
+P092,Product_92,Home Appliances,2048,2425
+P093,Product_93,Grocery,8044,8640
+P094,Product_94,Grocery,17929,19692
+P095,Product_95,Grocery,3354,3654
+P096,Product_96,Grocery,18287,19220
+P097,Product_97,Grocery,13858,14830
+P098,Product_98,Home Appliances,6635,8281
+P099,Product_99,Grocery,17725,19245
+P100,Product_100,Electronics,11699,14398
